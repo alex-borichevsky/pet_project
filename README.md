@@ -1,3 +1,5 @@
+Pet project. Technologies that i've used: Nest.js, TypeORM, Postgres, jwt autnenctication, authorization(user has many roles, admin can add role and ban user roles), distibution of static files(image column in post models), static files saved in dist/static folder
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
